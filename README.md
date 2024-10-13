@@ -6,10 +6,14 @@ select-from-MIST-where-grade-a-
 ## Team Members:
 
 1. Gus Wilkerson [@augwilk](https://www.github.com/augwilk)
+2. Emma Calleja @EmmaCalleja
 
 ## Problem Description:
 
-The task at hadn
+The task at hand:
+Today, college football data is dispersed across multiple platforms and sources, making it difficult to get a clear and accurate picture of the sport. Since this approach is broken up across platforms, it is difficult to access and analyze key statistics or trends over time. To address this issue, the NCAA has launched a project to create an essential database of Division 1 college football statistics.
+Specifically, the project aims to create a unified data repository for all D1 conferences, players, and head coaches, including in-depth statistics such as NIL, wins, losses, and game statistics among others.
+
 
 ## Data Model
 
@@ -46,9 +50,4 @@ Explanation of data model:
 
 ## Queries:
 
-1. Query 1 lists the players that have NIL deals with the company Nike along with their cummulative statictics for teh season. The results are ordered from greatest to least stats with priority given to passing yards and then receiving yards. 
-
-![Screenshot (63)](https://github.com/user-attachments/assets/861b5818-259b-41e1-bf08-48344921dfaa)
-
-Query 1 allows managers to see which signed players are perfroming the best. A company like Nike would want to sign with the highest producing atheletes to help build their brand as an elite sporting wear producer. The company may need to consider cutting deals with certain athletes that are nto perfroming well or look into extending contracts with high performing players. This query also reveals areas Nike could continue to grow. For example, Only one player signed with Nike has a significant numebr of rushing yards. This may entice Nike to look into other running backs to sponsor to continue to grow and promote their brand in teh college football landscape. This query could help Sponsors make informed decsions and assess how their contracted plaeyrs are performing.
 
